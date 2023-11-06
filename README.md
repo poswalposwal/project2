@@ -1,2 +1,2 @@
 # New project
-this is the new project
+this is the new project.
